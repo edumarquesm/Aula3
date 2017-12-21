@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{210997E3-A0F8-4E0D-BD09-5A01079F8265}|Default">
+  <MonoDevelop.Ide.ItemProperties.aula3Cadastro AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.0c3e6aa2" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="aula3Cadastro/MainActivity.cs">
+    <Files>
+      <File FileName="aula3Cadastro/MainActivity.cs" Line="35" Column="1" />
+      <File FileName="aula3Cadastro/SecondActivity.cs" Line="30" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Catchpoint exceptionName="System.Exception" includeSubclasses="True" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
